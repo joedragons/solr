@@ -4,5 +4,5 @@
 
 jdkVersion = "11"
 ignoreFiles = '''
-  solr/webapp/web/libs/*.js
+solr/webapp/web/libs/*.js
 '''
