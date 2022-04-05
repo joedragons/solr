@@ -3,3 +3,6 @@
 # https://docs.muse.dev/docs/repository-configuration/
 
 jdkVersion = "11"
+ignoreFiles = '''
+  solr/webapp/web/libs/*.js
+'''
