@@ -1,7 +1,7 @@
 # This file can configure Lift PR static analysis. 
-# Docs for adding, removing or changing checks can be found here:
-# https://help.sonatype.com/lift/configuration-reference
+# Docs for adding, removing or changing checks can be found here: https://help.sonatype.com/lift/configuration-reference
 
+build = "./gradlew clean assemble -x test -x buildLocalAntoraSite"
 jdkVersion = "11"
 ignoreFiles = '''
 **/test/**
