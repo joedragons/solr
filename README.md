@@ -21,10 +21,6 @@ Apache Solr is an enterprise search platform written in Java and using [Apache L
 Major features include full-text search, index replication and sharding, and
 result faceting and highlighting.
 
-
-[![Build Status](https://ci-builds.apache.org/job/Solr/job/Solr-Artifacts-main/badge/icon?subject=Solr)](https://ci-builds.apache.org/job/Solr/job/Solr-Artifacts-main/)
-
-
 ## Online Documentation
 
 This README file only contains basic setup instructions.  For more
