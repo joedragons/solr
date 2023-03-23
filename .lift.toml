@@ -3,7 +3,6 @@
 # https://help.sonatype.com/lift/configuring-lift
 
 jdkVersion = "11"
-disableTools = [ "refactor-first" ]
 ignoreRules = [ "INTERFACE_NOT_THREAD_SAFE" ]
 ignoreFiles = '''
 **/test/**
